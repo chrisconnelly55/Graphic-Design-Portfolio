@@ -1,0 +1,11 @@
+.logoContainer {
+  font-weight: bold;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  height: 38px;
+  padding-right: 8px;
+}

@@ -4,12 +4,12 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Home | Connelly Design</title>
+        <title>Work | Connelly Design</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <p className="description">Home</p>
+        <p className="description">Work</p>
       </main>
     </div>
   );
